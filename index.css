@@ -1,0 +1,12 @@
+body{
+    background-image: url("cheth.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 250px;
+    margin-left: 380px;
+    color: white;
+}
+
+

@@ -1,0 +1,26 @@
+body{
+    background-image: url("cheth.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 200px;
+    margin-left: 390px;
+    
+}
+h1{
+    color: white;
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    color: white;
+    margin-top: 5px;
+    margin-left: 135px;
+}
+input:hover{
+    background-color: rgb(202, 75, 75);
+}
+
+
+

@@ -1,0 +1,38 @@
+body{
+    background-image: url("cheth.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 100px;
+    margin-left: 340px;
+    margin-right: 310px;
+    background-color: rgb(211, 211, 211);
+    box-shadow:5px 15px 20px #000000; 
+     
+}
+form{
+    padding: 8px 8px;
+    margin-left: 95px;
+}
+input{
+    border-radius: 4px;
+    padding: 8px;
+    
+}
+
+label{
+    font-family: monospace;
+    
+}
+h3{
+    margin-left: 140px;
+}
+.header{
+    background-color: rgb(6, 6, 110);
+    padding: 4px;
+    color: white;
+}
+
+
+
